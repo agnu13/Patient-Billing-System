@@ -9,7 +9,5 @@ Hospital-Billing-Software
 
 -> I will upload the sql scripts to create databases soon.
 
-
-Credits:
-
-Harshit Gupta (Me), Diwas Sharma and Man Mohan Mishra
+Credits
+Akash Sharan
